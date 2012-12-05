@@ -19,7 +19,7 @@ rdiscount:
 # ----------------------------------------------------------------------
 
 # github hesap adı (ör. roktas)
-account: mehmetmertyildiran
+account: mervebozkurt
 
 # github organizasyonu (ör. 19)
 organization: 19
@@ -27,7 +27,7 @@ organization: 19
 # bu siteyi üreten github deposu (ör. roktas.github.com)
 # dikkat!  depo çoğunlukla <account>.github.com formundadır.  fakat başka
 # bir depo da olabilir.  url parametresi için yazılan açıklamayı okuyun.
-repository: mehmetmertyildiran.github.com
+repository: mervebozkurt.github.com
 
 # üretilen sitenin web adresi ne?  ör. "http://roktas.github.com".
 # CNAME kaydımız varsa bu adresi giriyoruz.  dikkat!  bu site
@@ -35,7 +35,7 @@ repository: mehmetmertyildiran.github.com
 # örneğin http://roktas.github.com/test olabilir.  fakat bu durumda
 # kurulumdan sonra "master" dalını "gh-pages" dalına birleştirmelisiniz.
 # 	git checkout -b gh-pages
-url: http://mehmetmertyildiran.github.com
+url: http://mervebozkurt.github.com
 
 # site görünümüne ilişkin olarak sitede mutlak adres yoluyla herhangi bir
 # sayfadan erişilebilecek ortak "dijital varlıklar"ın (ör. logolar) adresi.
@@ -46,7 +46,7 @@ url: http://mehmetmertyildiran.github.com
 # olduğuna göre bu parametre için örnek bir değer:
 #   
 # 	http://roktas.github.com/chrome
-assets: http://mehmetmertyildiran.github.com/chrome
+assets: http://mervebozkurt.github.com/chrome
 
 # ----------------------------------------------------------------------
 # site parametreleri
@@ -59,19 +59,19 @@ param:
         # --------------------------------------------------------------
         # unix kullanıcı adı (ör. roktas)
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
-        user: mehmetmertyildiran
+        user: mervebozkurt
         # tam kullanıcı adı (ör. Recai Oktaş)
-        fullname: Mehmet Mert Yıldıran
+        fullname: Merve Bozkurt
         # email adresi (ör. roktas@bil.omu.edu.tr)
-        email: mert.yildiran@bil.omu.edu.tr
+        email: merve.bozkurt@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
         title: <a href="http://ondokuz.biz/">19</a> üyesi
         # GnuPG kısa parmak izi (ör. DEADBEEF)
         gpg: ~
         # twitter adresi (ör. http://19.status.net/roktas)
-        twitter: http://mehmetmertyildiran.com
+        twitter: http://mervebozkurtomu.blogspot.com/
         # flick adresi (ör. http://flickr.com/photos/roktas)
-        flickr: http://amisosyazilim.com
+        flickr:
         # facebook adresi (ör. http://facebook.com/roktas)
         facebook: http://facebook.com/mengi
         # özet akışı adresi (ör. http://feeds.feedburner.com/roktas)
