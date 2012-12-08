@@ -3,5 +3,4 @@ layout: post
 title: markdown
 ---
 
-
-**Markdown nedir?**
+**Markdown nedir ne işe yarar?**
